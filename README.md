@@ -1,1 +1,2 @@
 # WebSite
+Посилання на дизайт: [Foodwagon Design](https://www.figma.com/design/6bFBKa4kTj13TNu1EVok15/FoodWagon-Food-Delivery-Landing-Template-by-ThemeWagon--Community-?node-id=342-144&t=4DPNuXrfWex7tvyZ-1)
